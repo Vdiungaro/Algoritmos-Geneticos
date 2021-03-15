@@ -1,5 +1,4 @@
 ## Algoritmos Genéticos <h2>
-  
   Inspirados por modelos biológicos, algoritmos genéticos buscam encontrar soluções e otimizá-las através de mutações e *crossovers* das gerações, selecionando sempre os indivíduos mais aptos para a reprodução.
   
 ## 1º Exercício <h4>  
