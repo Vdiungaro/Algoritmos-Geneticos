@@ -7,7 +7,7 @@
   
   ## 2º Exercício <h4>
   
-  Implentado com a intenção de maximizar a função ![g(x) = 2^{-2((x-0.1)/0.9)^{2}}(sin(5\pi x))^{6}](https://latex.codecogs.com/svg.latex?g%28x%29%20%3D%202%5E%7B-2%28%28x-0.1%29/0.9%29%5E%7B2%7D%7D%28sin%285%5Cpi%20x%29%29%5E%7B6%7D) utilizando uma representação em *bitstring*.
+  Implementado com a intenção de maximizar a função ![g(x) = 2^{-2((x-0.1)/0.9)^{2}}(sin(5\pi x))^{6}](https://latex.codecogs.com/svg.latex?g%28x%29%20%3D%202%5E%7B-2%28%28x-0.1%29/0.9%29%5E%7B2%7D%7D%28sin%285%5Cpi%20x%29%29%5E%7B6%7D) utilizando uma representação em *bitstring*.
   
   ## 3º Exercício <h4>
   
